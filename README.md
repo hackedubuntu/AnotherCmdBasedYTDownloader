@@ -1,4 +1,5 @@
-# AnotherCmdBasedYTDownloader
+# CommandLine Based YouTube Downloader
+
 This time, our script can load urls from a *file and has ability to download video as *mp3
 Script also can download *playlists and only thing you need to do is just type url of playlist when script wants url.
 
